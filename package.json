@@ -1,0 +1,19 @@
+{
+  "name": "testvpsapp",
+  "version": "1.0.0",
+  "description": "mean stackt test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/david-escalante-r/website.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "davides",
+  "license": "ISC"
+}
